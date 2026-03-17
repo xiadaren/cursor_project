@@ -1,0 +1,17 @@
+# 后端超大文件/文件夹
+backend/.gradle/
+backend/.jdk/
+backend/build/
+backend/gradle-7.6.4-bin.zip
+backend/temurin-jdk17.zip
+
+# 前端超大文件/文件夹
+frontend/node_modules/
+frontend/dist/
+
+# 通用忽略规则
+.idea/
+*.log
+.env
+.DS_Store
+Thumbs.db
