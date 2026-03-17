@@ -20,8 +20,8 @@ docker compose up -d
 
 默认会创建：
 - DB：`scs`
-- 用户：`scs`
-- 密码：`scs`
+- 用户：`root`
+- 密码：`root`
 
 ### 2) 启动后端
 ```bash
